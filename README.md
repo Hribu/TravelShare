@@ -156,5 +156,5 @@ Link to the application: https://sumtravelshare.herokuapp.com
 
 Link to the project presentation: https://docs.google.com/presentation/d/109dgSeHBmhRZRcwdOvpDNyZQjnavhtgI9-W67PcOozc/edit?usp=sharing
 
-Ling to the GitHub repository: https://github.com/OsvaldoPicazo/TravelShare
+Ling to the GitHub repository: https://github.com/Hribu/TravelShare/
 
